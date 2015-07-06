@@ -1,0 +1,3 @@
+﻿
+
+write-host hello
